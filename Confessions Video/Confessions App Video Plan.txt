@@ -1,0 +1,62 @@
+Video Plan: (Latest 3 confessions --> anonymous without any poll; 4th confession --> Anonymous with poll; 6th confession --> For You with chat enabled)
+
+***Video starts***
+
+First show the app icons and say 'Welcome to our brand new app for campus confessions!'
+*Go to the home screen*
+*Scroll down* and mention: You can view all the anonymous confessions written by others
+*Click on the top confession and go to UserConfessionPage*
+*Scroll down the confession*
+*Click on the upvote button* and mention: Click on the upvote button if you think this is an honest confession and support it. *Click on the downvote button* and mention: If you think this confession is not honest or against it, click on the downvote button. *Re-click upvote button*
+*Click on the react button* and mention: You can also react on a confession. *Click on love reaction*
+*Highlight views area* and mention: Not only votes and reactions but now you can know how many students viewed your confession.
+*Click on the comment button* and mention: Participate in the community opinion *Scroll down the comments page and react on a random comment* and give your opinion anonymously *write a new comment and come back to the UserConfessionPage* [WHAT COMMENT TO WRITE?]
+*Slide right(x3) left(x1) right(x1)* and mention: Just swipe right/ left to easily view other confessions.
+(For Poll)*Highlight avatar and click on it* and mention: you can also attach a poll to your confession. *Select 3rd poll option, wait, and exit*
+*Slide right(x2) and highlight 'For You' label* and mention: Looks like somebody confessed to you!. 
+
+<STOP>
+
+*Upvote the confession*. *Highlight the chat arrow and click on it* and mention: Confessor wants to chat with you, click on the chat button for a fully encrypted and anonymous conversation. 
+*Let the conversation go on (include decent amount of messages and speed up at this time) and finally click on the menu and end conversation* and then mention: You can end this anonymous conversation any time!
+Screen1 Messages:
+MSG1: Hi!
+MSG2: This is interesting. Somehow you can express your feelings to me without revealing your identity.
+MSG5: Its alright, I can understand
+MSG6: Atleast you realize I wont disappoint you.
+MSG9: Sure!
+Screen2 Messages:
+MSG3: I really want to confess to you but wasn't valiant enough to approach you directly.
+MSG4: 2 EMOJIS
+MSG7: We can atleast be friends and carry on this conversation.
+MSG8: Shall we meet somewhere in campus?
+*Click on the top right menu and highlight end conversation* and mention: You can end conversations whenever you want!
+*Go back to the home page*
+
+<STOP>
+
+*Highlight and Click on the plus floating button* and mention: Click on this button to write a new confession
+*Write some random confession(long enough) and speed up time here* [WHAT CONFESSION TO WRITE?]
+*Check-box 1st one and write some 2 random iitk mails* and mention: Include their mails whom you want to specifically confess to. [anonym23@iitk.ac.in, anonym24@iitk.ac.in]
+*Scroll down to the bottom of the form and highlight 'End-to-end encrypted'* and mention: "Everything is end-to-end encrypted. Nobody knows about you... *Scroll to the top and highlight specific individual text* and mention: ...and people you are confessing to. Not even admins!"
+*Click on the confess button*
+
+<STOP>
+
+*Now you are in the home page*
+*Now include 2 screens where in the second screen a notification appears that somebody has confessed* and mention: The concerned persons will be notified about your confession.
+*Refresh the 1st and 2nd screens and Click on the For You confession in the 2nd screen*
+*A notification appears for the 1st screen that a specific individual has viewed his confession* and mention: You will be notified if a specific individual views your confession.
+*In the 1st screen, Click on the notification for redirecting to your confession and click on the info button and highlight 'Seen By' area* and mention: You can now know which specific individuals viewed your confession without losing your anonymity!
+*Go back to the HomePage*
+*Now include the 1st screen only*
+
+<STOP>
+
+*Click on the Top 3 confessions(x2) and highlight the top3 confessions area* and mention: All confessions are ranked on a montly basis based on how the students opinion.
+*Hightlight 'Rankings->' and click on it* and mention: Click here to view all the top confessions of the month. *Click on the 2nd ranked confession and close the UserConfession page* and *Come back to the home page*
+*Click on the top-right avatar and scroll to bottom and then top and then right and then left and come back (DO NOT change the avatar)* and mention: Change your avatar whenever you want to safegaurd your anonymity.
+*Go to a new video editing page* and mention: Everything is end-to-end encrypted
+*Go to a new video editing page* and mention: Join us now in this next step of making confessions better!
+
+***Video ends***

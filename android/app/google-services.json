@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "773338812560",
+    "firebase_url": "https://fir-integration-c6fab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-integration-c6fab",
+    "storage_bucket": "fir-integration-c6fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773338812560:android:f5621bafaf617510be4815",
+        "android_client_info": {
+          "package_name": "com.example.livecamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAVyh4rf6bq7cNMjY__yrfQMoO0RdbGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773338812560-0jpf1n95gnfc92kfg6os5mcfmlipsuob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773338812560:android:dbb63f4ac2c20061be4815",
+        "android_client_info": {
+          "package_name": "com.example.login.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAVyh4rf6bq7cNMjY__yrfQMoO0RdbGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773338812560-0jpf1n95gnfc92kfg6os5mcfmlipsuob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773338812560:android:829945563fa9aa67be4815",
+        "android_client_info": {
+          "package_name": "com.example.socialise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAVyh4rf6bq7cNMjY__yrfQMoO0RdbGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773338812560-0jpf1n95gnfc92kfg6os5mcfmlipsuob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773338812560:android:07eb566b843edfffbe4815",
+        "android_client_info": {
+          "package_name": "com.gamingentertainment.iitkconfessions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773338812560-0vnlch3cmuglg3h4v1uhep2dlua2s20n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamingentertainment.iitkconfessions",
+            "certificate_hash": "276c4fe40ea6513aa3762b95873d43cafc0e36d2"
+          }
+        },
+        {
+          "client_id": "773338812560-b6jejilfitaprjcipdfppiapc0v1fmv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamingentertainment.iitkconfessions",
+            "certificate_hash": "35311e86645a1dae5f6cf82b0fe2271d2f8ccb16"
+          }
+        },
+        {
+          "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAVyh4rf6bq7cNMjY__yrfQMoO0RdbGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773338812560-slig3rdmdtkkaqfitnn1u80f6303dgvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773338812560-0jpf1n95gnfc92kfg6os5mcfmlipsuob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
